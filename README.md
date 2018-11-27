@@ -1,5 +1,5 @@
 # Semester-1-Project
-Built a website of what I learned from Quarter 1 &amp; 2. Used HTML5 and CSS3.
+Built a website of what I learned from Quarter 1 &amp; 2. Used HTML5, CSS3, and a CSS framework called "Bulma".
 
 11/27/18
 UPDATE:
